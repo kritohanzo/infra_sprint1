@@ -1,0 +1,5 @@
+IP: 158.160.73.82;
+name_taski: https://taski.kritohanzo.ru;
+name_kittygram: https://kittygram.kritohanzo.ru;
+login: kritohanzo;
+password: arbuz123; 
